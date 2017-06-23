@@ -1,0 +1,22 @@
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\bin\Debug\college.sdf
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\bin\Debug\es.exe
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\bin\Debug\es.pdb
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\bin\Debug\es.xml
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\es.Form1.resources
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\es.Resources.resources
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\es.vbproj.GenerateResource.Cache
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\es.exe
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\es.xml
+C:\Users\Cus\Documents\Visual Studio 2008\Projects\Project1\es\es\obj\Debug\es.pdb
+E:\es\es\bin\Debug\college.sdf
+E:\es\es\bin\Debug\es.exe
+E:\es\es\bin\Debug\es.pdb
+E:\es\es\bin\Debug\es.xml
+E:\es\es\obj\Debug\ResolveAssemblyReference.cache
+E:\es\es\obj\Debug\es.Form1.resources
+E:\es\es\obj\Debug\es.Resources.resources
+E:\es\es\obj\Debug\es.vbproj.GenerateResource.Cache
+E:\es\es\obj\Debug\es.exe
+E:\es\es\obj\Debug\es.xml
+E:\es\es\obj\Debug\es.pdb
